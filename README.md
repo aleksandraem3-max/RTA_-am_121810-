@@ -1,1 +1,1 @@
-# RTA_-am_121810-
+# Analiza danych w czasie rzeczywistym
