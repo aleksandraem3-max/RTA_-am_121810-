@@ -31,6 +31,6 @@ for message in consumer:
 
     if len(user_transactions[user_id]) > THRESHOLD:
         print(
-            f"ALERT 🚨: {user_id} wykonał {len(user_transactions[user_id])} "
+            f"ALERT : {user_id} wykonał {len(user_transactions[user_id])} "
             f"transakcji w {WINDOW} sekund!"
         )
